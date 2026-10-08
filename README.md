@@ -15,6 +15,8 @@ The dataset is drawn from the CDC's 2015 Behavioral Risk Factor Surveillance Sys
 2. Run all cells in order, top to bottom. The first code cell installs the `ucimlrepo` package and pulls the dataset directly from UCI, no manual download needed.
 3. All descriptive statistics, visualizations, and data quality checks regenerate from that single data pull.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VtBSkCA6JbquPR17_CixICc4XeANtTAy?usp=sharing)
+
 ## Notebook Contents
 1. **Data Selection**: dataset name, source, and justification for selection
 2. **Dataset Exploration**: import, structure, target variable identification, predictor descriptions, descriptive statistics, and two exploratory visualizations
